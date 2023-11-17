@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
+
 **LucasKelbes/LucasKelbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +15,4 @@ https://gallery.fitbit.com/search?terms=CodeboyApps
 📚 When I'm not writing code, I'm getting deep into study sessions and hanging out with friends.
 
 🔗 Find me on GitHub: [LucasKelbes](https://github.com/LucasKelbes)
--->
 
